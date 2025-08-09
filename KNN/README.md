@@ -5,4 +5,4 @@ This project implements a simple **k-Nearest Neighbors (k-NN)** classifier.
 - Allows manual input of vectors for real-time classification.
 - Supports any dataset in a similar format to `iris.data` (any number of dimensions and classes).
 
-to run: `<k> <train-set> <test-set>
+to run: `<k> <train-set> <test-set>`
